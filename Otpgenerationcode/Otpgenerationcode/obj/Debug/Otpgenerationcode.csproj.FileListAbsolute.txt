@@ -1,0 +1,10 @@
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\bin\Debug\Otpgenerationcode.exe.config
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\bin\Debug\Otpgenerationcode.exe
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\bin\Debug\Otpgenerationcode.pdb
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\obj\Debug\Otpgenerationcode.csproj.AssemblyReference.cache
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\obj\Debug\Otpgenerationcode.Form1.resources
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\obj\Debug\Otpgenerationcode.Properties.Resources.resources
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\obj\Debug\Otpgenerationcode.csproj.GenerateResource.cache
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\obj\Debug\Otpgenerationcode.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\obj\Debug\Otpgenerationcode.exe
+C:\Users\rohit\source\repos\Otpgenerationcode\Otpgenerationcode\obj\Debug\Otpgenerationcode.pdb
